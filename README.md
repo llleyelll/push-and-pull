@@ -54,5 +54,5 @@ Thitisak
 >>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
 28. Chaiyo Churngam CPE33 6210503543
 =======
-29. Artty CPE33
+29. Artty CPE33 6210503659
 >>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
