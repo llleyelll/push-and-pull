@@ -14,6 +14,7 @@ Thitisak
 9. Chanathip Thumkanon 6210546650
 10. Suphanut Chandee 6210500790
 11. nong mek ske16
+12. kokoko ske1001
 12. Sahanon Phisetpakassit 6210546030   
 13. Kaopunza <<<<<<< HEAD
 13. Kaopunza 
@@ -27,4 +28,6 @@ Thitisak
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
 22. kung ske17
-26. M CPE 33
+23. Pokpong Noppakhun 6210505210
+
+300. M CPE 33
