@@ -20,8 +20,8 @@ Thitisak
 14. Chalanthorn Aenguthaivadt 6210503527
 15. Jean ske17
 16. JeeJee SKE17
-17. Thitisak Siratchamatawin 6210503551
-18. Saiparn SKE17
+17. Saiparn SKE17
+18. Thitisak Siratchamatawin 6210503551
 19. Pokpong Noppakhun 6210505210
 20. Thitisak
 <<<<<<< HEAD
