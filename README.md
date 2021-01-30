@@ -7,10 +7,14 @@ Thitisak
 2. Panitan Plengkham 6210545521
 3. eye ske16
 4. Nuttapol Korcharoenrat 6210546404
+<<<<<<< HEAD
 5. Pokpong Noppakhun 6210505210
 <<<<<<< HEAD
 >>>>>>> 595fa76db372f863de18e90591a12ba74f1a2949
 =======
+=======
+# Pokpong Noppakhun 6210505210
+>>>>>>> 689db252676321f53eb9c1c18918b61e595f725d
 6. Pittayut Benjamasutin 6210545980
 <<<<<<< HEAD
 7. Tatpol Samakpong 6210546668
