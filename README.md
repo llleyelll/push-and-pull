@@ -84,7 +84,20 @@ Thitisak
 39. Narawich Maitreejitr 6210500773
 41. Thanick Chongtrakul 6210505198
 <<<<<<< HEAD
+<<<<<<< HEAD
 42. Phanphut
 =======
 42. Opal
 >>>>>>> dd6aa8872b108113db6b80aafe4676bb80ba707d
+=======
+=======
+>>>>>>> b949f0a179eaceb1c18d49ee01630de27d16406a
+>>>>>>> 084aa7bec953b02db9862e18356d02b07d912563
+42. Opal
+43. MAKARA ATIPATIPAT OPAL 6210505228
+=======
+42. Opal
+>>>>>>> dd6aa8872b108113db6b80aafe4676bb80ba707d
+
+43. MAKARA ATIPATIPAT OPAL 6210505228
+>>>>>>> 984815042c4e13b38fc15d7ea8c27fd13e200a59
