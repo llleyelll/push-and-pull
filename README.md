@@ -30,8 +30,10 @@ Thitisak
 10. Suphanut Chandee 6210500790
 11. nong mek ske16
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0985df4fb63d3aa45e00f75290733ae94d4dca7b
 =======
 12. Sahanon Phisetpakassit 6210546030   
-13. Thitisak Siratchatamatawin 6210503551
->>>>>>> b30a72c07f0d612b3f5fb8fd9d45d60b2069ef34
+13. Kaopunza 
+
+>>>>>>> 263d967ee72a2d7b04ac1cfa1141a543fe3d383e
