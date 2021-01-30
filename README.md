@@ -39,10 +39,7 @@ Thitisak
 27. Artty CPE33
 123456789. M CPE33 6210503616
 28. Chaiyo Churngam CPE33 6210503543
-<<<<<<< HEAD
-=======
 29. Artty CPE33
->>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
 30. banksinn
 =======
 27. Artty CPE33
