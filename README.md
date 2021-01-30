@@ -42,3 +42,4 @@ Thitisak
 27. Artty CPE33
 29. Artty CPE33 6210503659
 30. eiei cpe2000
+31. First SKE17
