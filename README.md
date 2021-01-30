@@ -56,4 +56,4 @@ Thitisak
 =======
 27. Artty CPE33
 >>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
-28. makara atipatipat Opal 6210505228
+28. makara atipatipat OPALKUUUB 6210505228
