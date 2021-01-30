@@ -75,4 +75,3 @@ Thitisak
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
 34. watermelon
 35. แม็กกี้ CPE ครับผม
-36. can cpe
