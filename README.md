@@ -1,6 +1,6 @@
 # push-and-pull
 Thitisak
-
+#skynet788
 1. Phuwanut Jiamwatthanaloet 6210545599
 2. Panitan Plengkham 6210545521
 3. eye ske16
@@ -72,8 +72,4 @@ Thitisak
 33. nathawat
 =======
 33. test
-<<<<<<< HEAD
-34. Phatcharapol Mungkung 6210503713
-=======
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
->>>>>>> 23031ddd550f1431a91cb3228dde55d5d34b6731
