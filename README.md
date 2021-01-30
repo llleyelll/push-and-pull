@@ -61,7 +61,6 @@ Thitisak
 30. eiei cpe2000
 <<<<<<< HEAD
 >>>>>>> 6d1202dbec183d902e8507bbe596143fcf51dab9
-31. banksinn
 >>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
 =======
 31. First SKE17
