@@ -86,6 +86,10 @@ Thitisak
 29. Artty CPE33
 =======
 27. Artty CPE33
+<<<<<<< HEAD
+>>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
+28. makara atipatipat OPALKUUUB 6210505228
+=======
 29. Artty CPE33 6210503659
 <<<<<<< HEAD
 =======
@@ -176,3 +180,5 @@ Thitisak
 41. Thanick Chongtrakul 6210505198
 =======
 >>>>>>> b949f0a179eaceb1c18d49ee01630de27d16406a
+>>>>>>> 084aa7bec953b02db9862e18356d02b07d912563
+42. Opal
