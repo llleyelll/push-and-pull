@@ -27,6 +27,7 @@ Thitisak
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
 <<<<<<< HEAD
+<<<<<<< HEAD
 22. kung ske17
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -35,6 +36,9 @@ Thitisak
 
 =======
 >>>>>>> 9261f99e6a8854d06e33a027ec3c276bfbe7bb99
+=======
+22. kung ske17
+>>>>>>> 89a21b726d2363aa39e5a97061b622c2a794f96e
 23. Nik Kunraho Struyf 6210506500
 >>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
 =======
@@ -184,4 +188,10 @@ Thitisak
 >>>>>>> b949f0a179eaceb1c18d49ee01630de27d16406a
 >>>>>>> 084aa7bec953b02db9862e18356d02b07d912563
 42. Opal
+<<<<<<< HEAD
 43. numkhang
+=======
+43. MAKARA ATIPATIPAT OPAL 6210505228
+44. Wasawat
+45. Nutta SKE17
+>>>>>>> 89a21b726d2363aa39e5a97061b622c2a794f96e
