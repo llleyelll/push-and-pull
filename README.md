@@ -16,7 +16,7 @@ Thitisak
 11. nong mek ske16
 12. kokoko ske1001
 12. Sahanon Phisetpakassit 6210546030   
-13. Kaopunza <<<<<<< HEAD
+13. Kaopunza
 13. Kaopunza 
 13. Kaopun ske17
 14. Chalanthorn Aenguthaivadt 6210503527
@@ -35,7 +35,10 @@ Thitisak
 25. Sirapat Traisanee 6210503811
 26. Nik Kunraho Struyf 6210506500
 25. Sirapat Traisanee 6210503811
+300. M CPE33 6210503616
+27. Artty CPE33
 123456789. M CPE33 6210503616
 28. Chaiyo Churngam CPE33 6210503543
 27. Artty CPE33
 29. Artty CPE33 6210503659
+30. eiei cpe2000
