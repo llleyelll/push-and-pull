@@ -73,9 +73,10 @@ Thitisak
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
-<<<<<<< HEAD
-34. Bon CPE 6210500579
-=======
 34. watermelon
+<<<<<<< HEAD
 >>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
 35. phanphut
+=======
+35. แม็กกี้ CPE ครับผม
+>>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
