@@ -16,8 +16,12 @@ Thitisak
 11. nong mek ske16
 12. Sahanon Phisetpakassit 6210546030   
 13. Kaopunza 
+13. Kaopun ske17
 14. Chalanthorn Aenguthaivadt 6210503527
 15. Jean ske17
 16. JeeJee SKE17
 17. Thitisak Siratchamatawin 6210503551
-18. kung ske 17
+18. Saiparn SKE17
+19. Pokpong Noppakhun 6210505210
+20. Thitisak
+21. kung ske17
