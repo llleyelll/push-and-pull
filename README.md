@@ -26,37 +26,16 @@ Thitisak
 18. Thitisak Siratchamatawin 6210503551
 19. Pokpong Noppakhun 6210505210
 20. Thitisak
-<<<<<<< HEAD
-=======
 21. Peerasu Watanasirang 6210545556
 22. kung ske17
-<<<<<<< HEAD
 23. Chaiyo Churngam CPE33 6210503543
-=======
-<<<<<<< HEAD
->>>>>>> 9261f99e6a8854d06e33a027ec3c276bfbe7bb99
 23. Nik Kunraho Struyf 6210506500
-=======
 23. Pokpong Noppakhun 6210505210
 24. Icezu
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 04311f824a2ad1def9187aa9b46eb285558eab07
-=======
 25. Sirapat Traisanee 6210503811
->>>>>>> b17291dded0f845f62d839ba92979ce653bdbe33
 26. Nik Kunraho Struyf 6210506500
-=======
 25. Sirapat Traisanee 6210503811
 123456789. M CPE33 6210503616
->>>>>>> 535ad620fa1d7b3ea02016f21a4f669b4d26b656
-<<<<<<< HEAD
->>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
 28. Chaiyo Churngam CPE33 6210503543
-=======
-<<<<<<< HEAD
 27. Artty CPE33
-=======
 29. Artty CPE33 6210503659
->>>>>>> e509fbccbf6d758dbf8ff0c307e0e9882029d107
->>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
