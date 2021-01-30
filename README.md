@@ -1,7 +1,5 @@
 # push-and-pull
-<<<<<<< HEAD
 Thitisak
-=======
 
 1. Phuwanut Jiamwatthanaloet 6210545599
 2. Panitan Plengkham 6210545521
@@ -17,10 +15,8 @@ Thitisak
 10. Suphanut Chandee 6210500790
 11. nong mek ske16
 12. Sahanon Phisetpakassit 6210546030   
-13. Kaopunza 
-<<<<<<< HEAD
+13. Kaopunza <<<<<<< HEAD
 14. Chalanthorn Aenguthaivadt 6210503527
 15. Jean ske17
 16. JeeJee SKE17
 17. Thitisak Siratchamatawin 6210503551
->>>>>>> 43c3ef6024f1f9f88a186e8aa432e5b4247c5ea5
