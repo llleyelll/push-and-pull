@@ -48,11 +48,11 @@ Thitisak
 26. Nik Kunraho Struyf 6210506500
 =======
 25. Sirapat Traisanee 6210503811
-300. M CPE33 6210503616
+123456789. M CPE33 6210503616
 >>>>>>> 535ad620fa1d7b3ea02016f21a4f669b4d26b656
 <<<<<<< HEAD
 >>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
 28. Chaiyo Churngam CPE33 6210503543
 =======
-29. Artty CPE33
+27. Artty CPE33
 >>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
