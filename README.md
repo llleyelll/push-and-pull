@@ -7,18 +7,19 @@
 5. Pokpong Noppakhun 6210505210
 6. Pittayut Benjamasutin 6210545980
 7. Tatpol Samakpong 6210546668
-8. nice ske 17
-9. kookkkok
-10. Chanathip Thumkanon 6210546650
-11. Suphanut Chandee 6210500790
-12. nong mek ske16
-13. Sahanon Phisetpakassit 6210546030   
-14. Kaopunza 
-15. Chalanthorn Aenguthaivadt 6210503527
-16. Jean ske17
-17. JeeJee SKE17
-18. Thitisak Siratchamatawin 6210503551
-19. Saiparn SKE17
-20. Pokpong Noppakhun 6210505210
-21. Thitisak
+7. nice ske 17
+8. kookkkok
+9. Chanathip Thumkanon 6210546650
+10. Suphanut Chandee 6210500790
+11. nong mek ske16
+12. Sahanon Phisetpakassit 6210546030   
+13. Kaopun ske17
+14. Chalanthorn Aenguthaivadt 6210503527
+15. Jean ske17
+16. JeeJee SKE17
+17. Thitisak Siratchamatawin 6210503551
+18. Saiparn SKE17
+19. Pokpong Noppakhun 6210505210
+20. Thitisak
+21. Peerasu Watanasirang 6210545556
 22. Icezu
