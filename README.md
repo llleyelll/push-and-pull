@@ -23,11 +23,11 @@ Thitisak
 15. Jean ske17
 16. JeeJee SKE17
 17. Saiparn SKE17
-18. Thitisak Siratchamatawin 6210503551
+18. kung ske17
 19. Pokpong Noppakhun 6210505210
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
-22. kung ske17
+22. Thitisak Siratchamatawin 6210503551
 23. Chaiyo Churngam CPE33 6210503543
 23. Nik Kunraho Struyf 6210506500
 23. Pokpong Noppakhun 6210505210
