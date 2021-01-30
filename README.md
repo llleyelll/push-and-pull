@@ -6,7 +6,7 @@
 4. Nuttapol Korcharoenrat 6210546404
 5. Pokpong Noppakhun 6210505210
 6. Pittayut Benjamasutin 6210545980
-7. Tatpol Samakpong 6210546668
+7. nice ske 17
 8. kookkkok
 9. Chanathip Thumkanon 6210546650
 10. Suphanut Chandee 6210500790
