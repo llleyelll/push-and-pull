@@ -5,7 +5,6 @@
 3. eye ske16
 4. Nuttapol Korcharoenrat 6210546404
 5. Pokpong Noppakhun 6210505210
-# Pokpong Noppakhun 6210505210
 6. Pittayut Benjamasutin 6210545980
 7. Tatpol Samakpong 6210546668
 7. nice ske 17
@@ -21,3 +20,7 @@
 16. JeeJee SKE17
 17. Thitisak Siratchamatawin 6210503551
 18. kok ske1001
+18. Saiparn SKE17
+19. Pokpong Noppakhun 6210505210
+20. Thitisak
+21. Pokpong Noppakhun 6210505210
