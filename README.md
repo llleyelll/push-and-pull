@@ -86,10 +86,41 @@ Thitisak
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
 27. Artty CPE33
 123456789. M CPE33 6210503616
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 535ad620fa1d7b3ea02016f21a4f669b4d26b656
+<<<<<<< HEAD
+>>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
+=======
+<<<<<<< HEAD
+=======
 28. Chaiyo Churngam CPE33 6210503543
 29. Artty CPE33
-30. banksinn
+<<<<<<< HEAD
 =======
+=======
+30. banksinn
+<<<<<<< HEAD
+>>>>>>> 12806ecbbbc9fee9c7da6259c394c903f3772e1f
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
+=======
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+27. Artty CPE33
+<<<<<<< HEAD
+>>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
+=======
+=======
+29. Artty CPE33 6210503659
+<<<<<<< HEAD
+>>>>>>> e509fbccbf6d758dbf8ff0c307e0e9882029d107
+>>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
+>>>>>>> cbec88e071e477ed6f9ca5cc7ae41b2d45c909ca
+=======
+
+>>>>>>> f22ed07ad0713b149a8d67287ec917ab27082269
 27. Artty CPE33
 <<<<<<< HEAD
 >>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
@@ -97,39 +128,96 @@ Thitisak
 =======
 29. Artty CPE33 6210503659
 <<<<<<< HEAD
+>>>>>>> 564ee790589d0ad360344061e3e9ef8db4506d80
+=======
+<<<<<<< HEAD
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
 =======
 30. eiei cpe2000
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
 >>>>>>> a26fa3a7c407f1a8b580aabc030d864d95bfc095
 =======
 <<<<<<< HEAD
 >>>>>>> 6d1202dbec183d902e8507bbe596143fcf51dab9
-31. banksinn
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
 =======
+=======
+>>>>>>> 12806ecbbbc9fee9c7da6259c394c903f3772e1f
+=======
+=======
+<<<<<<< HEAD
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+=======
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+=======
+>>>>>>> f22ed07ad0713b149a8d67287ec917ab27082269
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+=======
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
 31. First SKE17
 32. banksinn
 >>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 39bfdc4313202c558db6dcf88bae755b68688ea2
++---+
+| I |
+|   |
+| L |
+| o |
+| v |
+| e |
+|   |
+| U |
+| n |
+| i |
+| x |
+| ! |
++---+
+=======
+33. test
+>>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+=======
+=======
 >>>>>>> 39bfdc4313202c558db6dcf88bae755b68688ea2
 =======
 <<<<<<< HEAD
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
 33. nathawat
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
 <<<<<<< HEAD
 <<<<<<< HEAD
+34. watermelon
+35. Wipp
+=======
+<<<<<<< HEAD
+34. Bon CPE 6210500579
+=======
+<<<<<<< HEAD
 >>>>>>> b032b687e9bd7ad64dcae52436562d8d3706bec4
 =======
 34. watermelon
 35. แม็กกี้ CPE ครับผม
 >>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
+>>>>>>> 8ad6d8561587d26a95ce8fe25365ac03c1e50928
 =======
 34. watermelon
+<<<<<<< HEAD
+>>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+=======
 =======
 <<<<<<< HEAD
+>>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -137,6 +225,9 @@ Thitisak
 =======
 35. watermelon 6210506763
 >>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+<<<<<<< HEAD
+>>>>>>> b401be552ea11ab728595fc93a126f5198ca9f20
+=======
 <<<<<<< HEAD
 35. Zorr
 =======
@@ -146,9 +237,15 @@ Thitisak
 >>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> 7b09caeefd92d9b50c30a98efe43986b2395834e
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 36. jinnaput
 =======
 >>>>>>> e73fe9d3ab9ebbe39906651a23c3b3b712a2f138
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
 =======
 >>>>>>> 7b09caeefd92d9b50c30a98efe43986b2395834e
 36. TaeCPE
@@ -177,6 +274,10 @@ Thitisak
 =======
 >>>>>>> e73fe9d3ab9ebbe39906651a23c3b3b712a2f138
 <<<<<<< HEAD
+>>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
+40. testeee
+=======
+<<<<<<< HEAD
 39. mhandsomCPE
 =======
 >>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
@@ -192,9 +293,17 @@ Thitisak
 >>>>>>> 084aa7bec953b02db9862e18356d02b07d912563
 42. Opal
 <<<<<<< HEAD
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
+=======
+<<<<<<< HEAD
 43. numkhang
 =======
 43. MAKARA ATIPATIPAT OPAL 6210505228
 44. Wasawat
 45. Nutta SKE17
 >>>>>>> 89a21b726d2363aa39e5a97061b622c2a794f96e
+>>>>>>> 8ad6d8561587d26a95ce8fe25365ac03c1e50928
+<<<<<<< HEAD
+=======
+46. Wipp
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
