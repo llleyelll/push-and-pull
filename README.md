@@ -58,6 +58,8 @@ Thitisak
 =======
 27. Artty CPE33
 29. Artty CPE33 6210503659
+<<<<<<< HEAD
+=======
 30. eiei cpe2000
 <<<<<<< HEAD
 >>>>>>> 6d1202dbec183d902e8507bbe596143fcf51dab9
@@ -68,11 +70,21 @@ Thitisak
 >>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
 <<<<<<< HEAD
+>>>>>>> 39bfdc4313202c558db6dcf88bae755b68688ea2
+=======
+<<<<<<< HEAD
 33. nathawat
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> b032b687e9bd7ad64dcae52436562d8d3706bec4
+=======
+34. watermelon
+35. แม็กกี้ CPE ครับผม
+>>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
+=======
 34. watermelon
 =======
 <<<<<<< HEAD
@@ -120,4 +132,8 @@ Thitisak
 =======
 >>>>>>> e73fe9d3ab9ebbe39906651a23c3b3b712a2f138
 >>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
+<<<<<<< HEAD
+39. Narawich Maitreejitr 6210500773
+=======
 >>>>>>> 4055c06242720af926cb2a852ec5af2fdfc5aa0c
+>>>>>>> c5f0b58b3550f6f237146150a3733682a8b45412
