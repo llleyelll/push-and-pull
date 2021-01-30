@@ -26,10 +26,7 @@ Thitisak
 19. Pokpong Noppakhun 6210505210
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
-<<<<<<< HEAD
-=======
 22. kung ske17
->>>>>>> dd6aa8872b108113db6b80aafe4676bb80ba707d
 23. Nik Kunraho Struyf 6210506500
 22. Thitisak Siratchamatawin 6210503551
 23. Chaiyo Churngam CPE33 6210503543
@@ -87,3 +84,4 @@ Thitisak
 42. Opal
 43. MAKARA ATIPATIPAT OPAL 6210505228
 44. Wasawat
+45. Nutta SKE17
