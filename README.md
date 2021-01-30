@@ -1,5 +1,5 @@
 # push-and-pull
 
-Phuwanut Jiamwatthanaloet 6210545599
-
-Panitan Plengkham 6210545521
+1. Phuwanut Jiamwatthanaloet 6210545599
+2. Panitan Plengkham 6210545521
+3. eye ske16
