@@ -44,8 +44,10 @@ Thitisak
 =======
 14. Chalanthorn Aenguthaivadt 6210503527
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1a39f5a2fbae96417225be5d6c15f9690829888a
 =======
 15. Jean ske17
-16. Thitisak Siratchamatawin 6210503551
->>>>>>> e5dafcdfc2689caa07a784f120241d3258ef03ae
+16. JeeJee SKE17
+17. Thitisak Siratchamatawin 6210503551
+>>>>>>> 104ea1d2b118398d70391fa9b3cc2f379f7e9a63
