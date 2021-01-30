@@ -16,6 +16,7 @@ Thitisak
 11. nong mek ske16
 12. kokoko ske1001
 12. Sahanon Phisetpakassit 6210546030   
+13. Kaopunza <<<<<<< HEAD
 13. Kaopunza 
 13. Kaopun ske17
 14. Chalanthorn Aenguthaivadt 6210503527
@@ -25,6 +26,29 @@ Thitisak
 18. Thitisak Siratchamatawin 6210503551
 19. Pokpong Noppakhun 6210505210
 20. Thitisak
+<<<<<<< HEAD
+=======
 21. Peerasu Watanasirang 6210545556
 22. kung ske17
+<<<<<<< HEAD
 23. Chaiyo Churngam CPE33 6210503543
+=======
+<<<<<<< HEAD
+>>>>>>> 9261f99e6a8854d06e33a027ec3c276bfbe7bb99
+23. Nik Kunraho Struyf 6210506500
+=======
+23. Pokpong Noppakhun 6210505210
+24. Icezu
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 04311f824a2ad1def9187aa9b46eb285558eab07
+=======
+25. Sirapat Traisanee 6210503811
+>>>>>>> b17291dded0f845f62d839ba92979ce653bdbe33
+26. Nik Kunraho Struyf 6210506500
+=======
+25. Sirapat Traisanee 6210503811
+300. M CPE33
+>>>>>>> 535ad620fa1d7b3ea02016f21a4f669b4d26b656
+>>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
+26. Chaiyo Churngam CPE33 6210503543
