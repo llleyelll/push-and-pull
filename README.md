@@ -1,6 +1,6 @@
 # push-and-pull
 Thitisak
-#skynet788
+
 1. Phuwanut Jiamwatthanaloet 6210545599
 2. Panitan Plengkham 6210545521
 3. eye ske16
@@ -69,9 +69,26 @@ Thitisak
 >>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
 <<<<<<< HEAD
-33. nathawat
+33. Nat CPE 6210503624 
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+34. Bon CPE 6210500579
+=======
+35. watermelon 6210506763
+>>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+<<<<<<< HEAD
+35. Zorr
+=======
+=======
 34. watermelon
 35. แม็กกี้ CPE ครับผม
+>>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
+>>>>>>> 7b09caeefd92d9b50c30a98efe43986b2395834e
+36. TaeCPE
+>>>>>>> 6456bd59a1e0256760755b83c04f6808b71bf4e8
+37. Zorr
