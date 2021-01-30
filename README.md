@@ -6,7 +6,6 @@ Thitisak
 3. eye ske16
 4. Nuttapol Korcharoenrat 6210546404
 5. Pokpong Noppakhun 6210505210
-# Pokpong Noppakhun 6210505210
 6. Pittayut Benjamasutin 6210545980
 7. Tatpol Samakpong 6210546668
 7. nice ske 17
@@ -99,6 +98,7 @@ RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 32. banksinn
 >>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
+<<<<<<< HEAD
 >>>>>>> 39bfdc4313202c558db6dcf88bae755b68688ea2
 +---+
 | I |
@@ -114,3 +114,6 @@ RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 | x |
 | ! |
 +---+
+=======
+33. test
+>>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
