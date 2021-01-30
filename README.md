@@ -27,6 +27,6 @@ Thitisak
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
 22. kung ske17
-24. Sirapat Traisanee 6210503811
 23. Pokpong Noppakhun 6210505210
 24. Icezu
+25. Sirapat Traisanee 6210503811
