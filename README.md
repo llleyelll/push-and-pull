@@ -27,4 +27,4 @@ Thitisak
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
 22. kung ske17
-23. M CPE 33
+26. M CPE 33
