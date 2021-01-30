@@ -30,4 +30,5 @@ Thitisak
 22. kung ske17
 23. Pokpong Noppakhun 6210505210
 24. Icezu
-300. M CPE 33
+25. Sirapat Traisanee 6210503811
+300. M CPE33
