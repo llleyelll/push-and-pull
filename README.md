@@ -26,6 +26,10 @@ Thitisak
 19. Pokpong Noppakhun 6210505210
 20. Thitisak
 21. Peerasu Watanasirang 6210545556
+<<<<<<< HEAD
+=======
+22. kung ske17
+>>>>>>> dd6aa8872b108113db6b80aafe4676bb80ba707d
 23. Nik Kunraho Struyf 6210506500
 22. Thitisak Siratchamatawin 6210503551
 23. Chaiyo Churngam CPE33 6210503543
@@ -49,6 +53,7 @@ Thitisak
 29. Artty CPE33
 30. banksinn
 27. Artty CPE33
+28. makara atipatipat OPALKUUUB 6210505228
 29. Artty CPE33 6210503659
 30. eiei cpe2000
 31. banksinn
@@ -64,7 +69,10 @@ Thitisak
 35. Zorr
 34. watermelon
 35. แม็กกี้ CPE ครับผม
+<<<<<<< HEAD
 35. แม็กกี้ CPE ครับผม
+=======
+>>>>>>> dd6aa8872b108113db6b80aafe4676bb80ba707d
 36. jinnaput
 36. TaeCPE
 37. Zorr
@@ -75,4 +83,8 @@ Thitisak
 39. mhandsomCPE
 39. Narawich Maitreejitr 6210500773
 41. Thanick Chongtrakul 6210505198
+<<<<<<< HEAD
 42. Phanphut
+=======
+42. Opal
+>>>>>>> dd6aa8872b108113db6b80aafe4676bb80ba707d
