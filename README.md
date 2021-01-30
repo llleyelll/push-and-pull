@@ -35,5 +35,9 @@ Thitisak
 =======
 23. Pokpong Noppakhun 6210505210
 24. Icezu
+<<<<<<< HEAD
 >>>>>>> 04311f824a2ad1def9187aa9b46eb285558eab07
-25. Nik Kunraho Struyf 6210506500
+=======
+25. Sirapat Traisanee 6210503811
+>>>>>>> b17291dded0f845f62d839ba92979ce653bdbe33
+26. Nik Kunraho Struyf 6210506500
