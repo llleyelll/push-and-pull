@@ -39,3 +39,4 @@ Thitisak
 28. Chaiyo Churngam CPE33 6210503543
 27. Artty CPE33
 29. Artty CPE33 6210503659
+30. Narawich Maitreejitr 6210500773
