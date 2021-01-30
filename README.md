@@ -46,23 +46,138 @@ Thitisak
 300. M CPE33 6210503616 hello
 27. Artty CPE33
 123456789. M CPE33 6210503616
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 535ad620fa1d7b3ea02016f21a4f669b4d26b656
+<<<<<<< HEAD
+>>>>>>> f7d3a6bb52fe90249fc2129b31ee09b57a14df4b
+=======
+<<<<<<< HEAD
+=======
 28. Chaiyo Churngam CPE33 6210503543
 29. Artty CPE33
+<<<<<<< HEAD
+=======
+=======
 30. banksinn
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 12806ecbbbc9fee9c7da6259c394c903f3772e1f
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
+=======
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+27. Artty CPE33
+<<<<<<< HEAD
+>>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
+=======
+=======
+29. Artty CPE33 6210503659
+<<<<<<< HEAD
+>>>>>>> e509fbccbf6d758dbf8ff0c307e0e9882029d107
+>>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
+>>>>>>> cbec88e071e477ed6f9ca5cc7ae41b2d45c909ca
+=======
+
+>>>>>>> f22ed07ad0713b149a8d67287ec917ab27082269
+>>>>>>> 5c5112790763125363e4976f8b99c320de8fa461
 27. Artty CPE33
 28. makara atipatipat OPALKUUUB 6210505228
 29. Artty CPE33 6210503659
+<<<<<<< HEAD
 30. eiei cpe2000
 31. banksinn
 31. First SKE17
 32. banksinn
+=======
+<<<<<<< HEAD
+>>>>>>> 564ee790589d0ad360344061e3e9ef8db4506d80
+=======
+<<<<<<< HEAD
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
+=======
+30. eiei cpe2000
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
+>>>>>>> a26fa3a7c407f1a8b580aabc030d864d95bfc095
+=======
+<<<<<<< HEAD
+>>>>>>> 6d1202dbec183d902e8507bbe596143fcf51dab9
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+=======
+=======
+>>>>>>> 12806ecbbbc9fee9c7da6259c394c903f3772e1f
+=======
+=======
+<<<<<<< HEAD
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+=======
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+=======
+>>>>>>> f22ed07ad0713b149a8d67287ec917ab27082269
+>>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+=======
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
+31. First SKE17
+32. banksinn
+>>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
+>>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 39bfdc4313202c558db6dcf88bae755b68688ea2
++---+
+| I |
+|   |
+| L |
+| o |
+| v |
+| e |
+|   |
+| U |
+| n |
+| i |
+| x |
+| ! |
++---+
+=======
+33. test
+>>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+=======
+=======
+>>>>>>> 39bfdc4313202c558db6dcf88bae755b68688ea2
+=======
+<<<<<<< HEAD
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
+>>>>>>> 5c5112790763125363e4976f8b99c320de8fa461
 33. nathawat
 33. test
 34. watermelon
 35. แม็กกี้ CPE ครับผม
 34. watermelon
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 5c5112790763125363e4976f8b99c320de8fa461
 34. Bon CPE 6210500579
 35. watermelon 6210506763
+<<<<<<< HEAD
 35. Zorr
 34. watermelon
 35. แม็กกี้ CPE ครับผม
@@ -71,11 +186,80 @@ Thitisak
 36. TaeCPE
 37. Zorr
 37. Zorr
+=======
+>>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+<<<<<<< HEAD
+>>>>>>> b401be552ea11ab728595fc93a126f5198ca9f20
+=======
+<<<<<<< HEAD
+=======
+=======
+34. watermelon
+35. แม็กกี้ CPE ครับผม
+>>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7b09caeefd92d9b50c30a98efe43986b2395834e
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+36. jinnaput
+=======
+>>>>>>> e73fe9d3ab9ebbe39906651a23c3b3b712a2f138
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
+=======
+>>>>>>> 7b09caeefd92d9b50c30a98efe43986b2395834e
+36. TaeCPE
+>>>>>>> 6456bd59a1e0256760755b83c04f6808b71bf4e8
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4efd468e1e46625f97674d320dc23c16c4afaba4
+=======
+<<<<<<< HEAD
+=======
+37. Zorr
+>>>>>>> 4efd468e1e46625f97674d320dc23c16c4afaba4
+>>>>>>> 8ad6d8561587d26a95ce8fe25365ac03c1e50928
+>>>>>>> 5c5112790763125363e4976f8b99c320de8fa461
 38. NAPASIN SAENGTHONG 6210503641
 40. Taro CPE small muscle
 39. Phatcharapol Mungkung 6210503713
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e73fe9d3ab9ebbe39906651a23c3b3b712a2f138
+<<<<<<< HEAD
+>>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
+40. testeee
+=======
+<<<<<<< HEAD
+>>>>>>> 5c5112790763125363e4976f8b99c320de8fa461
 39. mhandsomCPE
 39. Narawich Maitreejitr 6210500773
 41. Thanick Chongtrakul 6210505198
 42. Opal
+<<<<<<< HEAD
 44. Phanphut
+=======
+<<<<<<< HEAD
+>>>>>>> eb6caf2ce01c6b5eb38b84a4d283990c9de705b8
+=======
+<<<<<<< HEAD
+43. numkhang
+=======
+43. MAKARA ATIPATIPAT OPAL 6210505228
+44. Wasawat
+45. Nutta SKE17
+<<<<<<< HEAD
+46. Time CPE33
+=======
+>>>>>>> 89a21b726d2363aa39e5a97061b622c2a794f96e
+>>>>>>> 8ad6d8561587d26a95ce8fe25365ac03c1e50928
+<<<<<<< HEAD
+=======
+46. Wipp
+>>>>>>> 4fe86a697528fc5b176ee186acf9c5b5fe996b23
+>>>>>>> 9e3b6aa7ed9c143c4a23b7fe4b78983c7bfbf7aa
+>>>>>>> 5c5112790763125363e4976f8b99c320de8fa461
