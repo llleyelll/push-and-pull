@@ -13,5 +13,10 @@ Thitisak
 =======
 6. Pittayut Benjamasutin 6210545980
 7. Tatpol Samakpong 6210546668
-8. Thitisak Siratchatamatawin 6210503551
+<<<<<<< HEAD
 >>>>>>> dd267faf29c37547ee424ba6253fbebd3f6db96d
+=======
+8. kookkkok
+9. Chanathip Thumkanon 6210546650
+10. Thitisak Siratchatamatawin 6210503551
+>>>>>>> d0f01369ffd254bc5e223abbb1d932dcd65faad7
