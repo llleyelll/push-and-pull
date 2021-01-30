@@ -59,7 +59,6 @@ Thitisak
 27. Artty CPE33
 29. Artty CPE33 6210503659
 <<<<<<< HEAD
-30. Narawich Maitreejitr 6210500773
 =======
 30. eiei cpe2000
 <<<<<<< HEAD
@@ -79,4 +78,10 @@ Thitisak
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+<<<<<<< HEAD
 >>>>>>> b032b687e9bd7ad64dcae52436562d8d3706bec4
+=======
+34. watermelon
+35. แม็กกี้ CPE ครับผม
+>>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
+36. Narawich Maitreejitr 6210500773
