@@ -19,8 +19,10 @@ Thitisak
 8. kookkkok
 9. Chanathip Thumkanon 6210546650
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> d0f01369ffd254bc5e223abbb1d932dcd65faad7
+>>>>>>> e11fb4fa6bfa3f659ac34a6c69fec2acd1eb1ad5
 =======
 10. Suphanut Chandee 6210500790
-11. Thitisak Siratchatamatawin 6210503551
->>>>>>> e11fb4fa6bfa3f659ac34a6c69fec2acd1eb1ad5
+11. nong mek ske16
+>>>>>>> 0985df4fb63d3aa45e00f75290733ae94d4dca7b
