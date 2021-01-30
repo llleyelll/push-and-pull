@@ -69,7 +69,6 @@ Thitisak
 36. jinnaput
 36. TaeCPE
 37. Zorr
-37. Zorr
 38. NAPASIN SAENGTHONG 6210503641
 40. Taro CPE small muscle
 39. Phatcharapol Mungkung 6210503713
