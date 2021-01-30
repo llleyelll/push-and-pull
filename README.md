@@ -68,5 +68,12 @@ Thitisak
 32. banksinn
 >>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
+<<<<<<< HEAD
+33. nathawat
+=======
 33. test
+<<<<<<< HEAD
 34. Phatcharapol Mungkung 6210503713
+=======
+>>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+>>>>>>> 23031ddd550f1431a91cb3228dde55d5d34b6731
