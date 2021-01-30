@@ -39,5 +39,9 @@ Thitisak
 =======
 12. Sahanon Phisetpakassit 6210546030   
 13. Kaopunza 
-14. Thitisak Siratchatamatawin 6210503551
+<<<<<<< HEAD
 >>>>>>> 263d967ee72a2d7b04ac1cfa1141a543fe3d383e
+=======
+14. Chalanthorn Aenguthaivadt 6210503527
+15. Thitisak Siratchatamatawin 6210503551
+>>>>>>> 1a39f5a2fbae96417225be5d6c15f9690829888a
