@@ -123,5 +123,18 @@ RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+<<<<<<< HEAD
 34. watermelon
 >>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+34. Bon CPE 6210500579
+=======
+35. watermelon 6210506763
+>>>>>>> bc887c1ffc60bf71fb85207b48c172117fad1278
+=======
+34. watermelon
+35. แม็กกี้ CPE ครับผม
+>>>>>>> 46e7112015bd3d09828e8cdd6f5e310d5e3a8630
+>>>>>>> 7b09caeefd92d9b50c30a98efe43986b2395834e
