@@ -1,6 +1,6 @@
 # push-and-pull
 Thitisak
-
+#skynet788
 1. Phuwanut Jiamwatthanaloet 6210545599
 2. Panitan Plengkham 6210545521
 3. eye ske16
@@ -69,10 +69,13 @@ Thitisak
 >>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
 >>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
 <<<<<<< HEAD
-33. Nat CPE 6210503624 
+33. nathawat
 =======
 33. test
 >>>>>>> 2e3a5d485d67fddbb165210827680f60ecb357f5
+<<<<<<< HEAD
+34. watermelon
+=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -98,4 +101,8 @@ Thitisak
 37. Zorr
 >>>>>>> 4efd468e1e46625f97674d320dc23c16c4afaba4
 38. NAPASIN SAENGTHONG 6210503641
+<<<<<<< HEAD
 39. Phatcharapol Mungkung 6210503713
+=======
+>>>>>>> e73fe9d3ab9ebbe39906651a23c3b3b712a2f138
+>>>>>>> e36d008954d8cab9c25d34c9cd9dede487950e2c
