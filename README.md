@@ -41,24 +41,31 @@ Thitisak
 25. Sirapat Traisanee 6210503811
 26. Nik Kunraho Struyf 6210506500
 25. Sirapat Traisanee 6210503811
+<<<<<<< HEAD
 300. M CPE33 6210503616
 <<<<<<< HEAD
 >>>>>>> 535ad620fa1d7b3ea02016f21a4f669b4d26b656
 27. Artty CPE33
 28. jinnaput CPE 6210500757
 =======
+=======
+300. M CPE33 6210503616 hello
+>>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
 27. Artty CPE33
 123456789. M CPE33 6210503616
 28. Chaiyo Churngam CPE33 6210503543
-<<<<<<< HEAD
-=======
 29. Artty CPE33
->>>>>>> 318a7b139471066b6f1e6669adada64cec9b2852
 30. banksinn
 =======
 27. Artty CPE33
 29. Artty CPE33 6210503659
 30. eiei cpe2000
+<<<<<<< HEAD
 >>>>>>> 6d1202dbec183d902e8507bbe596143fcf51dab9
 31. banksinn
 >>>>>>> 42fb92e6c97d3944c2bf7c3f75ea58c4d8d96835
+=======
+31. First SKE17
+32. banksinn
+>>>>>>> 2316ac1c4b072d70b9370efacd733b366f1190e8
+>>>>>>> 512f7d47045eaf9eb0e33bf6bc9433c99dec39a6
