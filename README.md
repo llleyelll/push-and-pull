@@ -1,14 +1,10 @@
 # push-and-pull
-<<<<<<< HEAD
-Thitisak
-=======
 
 1. Phuwanut Jiamwatthanaloet 6210545599
 2. Panitan Plengkham 6210545521
 3. eye ske16
 4. Nuttapol Korcharoenrat 6210546404
 5. Pokpong Noppakhun 6210505210
-# Pokpong Noppakhun 6210505210
 6. Pittayut Benjamasutin 6210545980
 7. Tatpol Samakpong 6210546668
 7. nice ske 17
@@ -23,3 +19,5 @@ Thitisak
 16. JeeJee SKE17
 17. Thitisak Siratchamatawin 6210503551
 18. Saiparn SKE17
+19. Pokpong Noppakhun 6210505210
+20. Thitisak
