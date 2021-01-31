@@ -23,7 +23,7 @@
 21. NongNon cpe33
 22. Nope cpe33
 23. Nine cpe33
-24. Ice cpe 33
+24. Icezy cpe 33
 25. NongNon cpe33
 26. James cpe33
 27. Fay cpe33
@@ -31,4 +31,5 @@
 29. Ten cpe33
 30. Toey ske17
 31. pipi cpe33
-32. ICE CPE33
+32. Belle cpe33
+33. ICE CPE33
