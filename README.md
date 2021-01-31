@@ -1,3 +1,3 @@
 # push-and-pull
 
-2.Ten cpe
+6.Ten cpe
