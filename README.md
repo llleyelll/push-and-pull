@@ -20,7 +20,7 @@
 18. nut ske17
 19. bas cpe33
 20. bank cpe33
-21. NongNon cpe33
+21. Sairung cpe33
 22. Nope cpe33
 23. Nine cpe33
 24. Icezy cpe 33
@@ -33,13 +33,7 @@
 31. pipi cpe33
 32. Belle cpe33
 33. ICE CPE33
-<<<<<<< HEAD
-<<<<<<< HEAD
 34. Smile
-=======
 34. Mark SKE17
->>>>>>> 1b74c4af64d0c1409adc5595a282cd700c48f7f3
-=======
 35. preaw cpe33
 34. Mark SKE17
->>>>>>> 1c0f09b4bd3582bc47ad3d707aed137a8fc7e1b5
