@@ -14,3 +14,14 @@
 12. May ske17
 13. Kak cpe33
 14. Pim ske 17
+<<<<<<< HEAD
+=======
+15. PonPond cpe33
+16. Jom SKE17
+17. James ske17
+18. nut ske17
+19. bas cpe33
+20. bank cpe33
+21. NongNon cpe33
+22. Nope cpe33
+>>>>>>> 3a2444bff04fc3a5ebe2b0d4356054fdf4d8270b
