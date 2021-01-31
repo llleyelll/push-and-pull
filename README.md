@@ -27,4 +27,8 @@
 15. PonPond cpe33
 16. Jom SKE17
 17. James ske17
+<<<<<<< HEAD
 >>>>>>> e2b1ec6a5a89e19f204e353f3797ba745d19bd1a
+=======
+18. nut ske17
+>>>>>>> faaf24f3d7fcdde13b5e085e0445b2707036a5f8
