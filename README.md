@@ -1,4 +1,5 @@
 # push-and-pull
+
 1. eye ske16
 2. pun ske17
 3. Boom ske17
@@ -18,4 +19,8 @@
 16. NongNon cpe33
 =======
 16. Jom SKE17
+<<<<<<< HEAD
 >>>>>>> 0c88bff58ce4ece3a992c1f5de25c3a6526795bf
+=======
+17. James ske17
+>>>>>>> e2b1ec6a5a89e19f204e353f3797ba745d19bd1a
