@@ -1,5 +1,4 @@
 # push-and-pull
-
 1. eye ske16
 2. pun ske17
 3. Boom ske17
@@ -15,4 +14,5 @@
 13. Kak cpe33
 14. Pim ske 17
 15. PonPond cpe33
-16. nut ske17
+16. Jom SKE17
+17. nut ske17
