@@ -17,4 +17,8 @@
 12. May ske17
 13. Kak cpe33
 14. Pim ske 17
+<<<<<<< HEAD
 >>>>>>> 3d0b400912d62c4c9ecf27941f3b7430c3a011c0
+=======
+15. PonPond cpe33
+>>>>>>> 83d86be1b436738e49df3d5354d9a182ac03dcab
