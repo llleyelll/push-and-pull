@@ -18,4 +18,3 @@
 16. Jom SKE17
 17. James ske17
 18. nut ske17
-19. mad cpe33
