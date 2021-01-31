@@ -9,5 +9,8 @@ test
 =======
 2. pun ske17
 3. Boom ske17
-4. Bas cpe33
+<<<<<<< HEAD
+>>>>>>> origin/main
+=======
+4. jacky ske17
 >>>>>>> origin/main
