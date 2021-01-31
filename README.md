@@ -1,9 +1,5 @@
 # push-and-pull
 
-<<<<<<< HEAD
-
-19. Nine CPE33
-=======
 1. eye ske16
 2. pun ske17
 3. Boom ske17
@@ -22,4 +18,4 @@
 16. Jom SKE17
 17. James ske17
 18. nut ske17
->>>>>>> faaf24f3d7fcdde13b5e085e0445b2707036a5f8
+19. Nine CPE33
