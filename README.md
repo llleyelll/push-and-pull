@@ -1,5 +1,4 @@
 # push-and-pull
-
 1. eye ske16
 2. pun ske17
 3. Boom ske17
@@ -15,4 +14,8 @@
 13. Kak cpe33
 14. Pim ske 17
 15. PonPond cpe33
+<<<<<<< HEAD
 16. NongNon cpe33
+=======
+16. Jom SKE17
+>>>>>>> 0c88bff58ce4ece3a992c1f5de25c3a6526795bf
