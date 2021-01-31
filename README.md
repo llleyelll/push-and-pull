@@ -10,6 +10,7 @@
 8. ploy ske17
 9. Duke ske17
 10. ING SKE 17
+
 11. Safe cpe 33
 12. May ske17
 13. Kak cpe33
@@ -20,7 +21,6 @@
 18. nut ske17
 19. bas cpe33
 20. bank cpe33
-21. NongNon cpe33
+21. Sairung cpe33
 22. Nope cpe33
-23. James cpe33
-24. preaw cpe33
+23. preaw cpe33
