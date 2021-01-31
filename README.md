@@ -10,4 +10,6 @@
 9. Duke ske17
 10. ING SKE 17
 11. Safe cpe 33
-12. Jom SKE17
+12. May ske17
+13. Kak cpe33
+14. Jom SKE17
